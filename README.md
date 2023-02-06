@@ -1,2 +1,2 @@
-# Alura-consumo-e-tratamento-de-API_VIACEP
-Finalizando o curso de consumo e tratamento de API, utilizando o VIACEP, API de consulta de CEPs de todo o brasil. 
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
